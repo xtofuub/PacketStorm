@@ -28,9 +28,10 @@
    sudo apt install aircrack-ng
    pip install rich
 
-   ```bash
-    git clone https://github.com/tofuubx/packetstorm
-    cd packetstorm
+2. **Clone the Repository**: 
+```bash
+   git clone https://github.com/tofuubx/packetstorm
+   cd packetstorm
    sudo python3 packetstorm.py
 
 Usage 🎯
