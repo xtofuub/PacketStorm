@@ -30,32 +30,12 @@
 
 2. **Clone the Repository**: 
 ```bash
-   git clone https://github.com/tofuubx/packetstorm
+   git clone https://github.com/Xtofuub/packetstorm
    cd packetstorm
    sudo python3 packetstorm.py
 
-Usage 🎯
+```
+## Disclaimer ⚠️
 
-Select Interface:
-
-   The script will list all available network interfaces. Choose the one you want to use (e.g., wlan0).
-
-Scan Networks:
-
-   The script will scan for nearby Wi-Fi networks for 30 seconds and display them in real-time.
-
-Choose Deauth Mode:
-
-   Option 1: Nuke all networks.
-
-Option 2: Selectively nuke one network.
-
-Launch the Attack:
-
-Sit back and watch the chaos unfold.
-
-Stop the Attack:
-
-Press Ctrl+C to stop the continuous deauth attack.
-
+This tool is intended for educational and authorized testing purposes only. Misuse of this tool for illegal or unethical activities is strictly prohibited. The authors are not responsible for any damage or legal consequences caused by the misuse of this tool.
 
