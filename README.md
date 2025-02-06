@@ -27,3 +27,34 @@
    sudo apt update
    sudo apt install aircrack-ng
    pip install rich
+
+   ```bash
+    git clone https://github.com/tofuubx/packetstorm
+    cd packetstorm
+   sudo python3 packetstorm.py
+
+Usage 🎯
+
+Select Interface:
+
+   The script will list all available network interfaces. Choose the one you want to use (e.g., wlan0).
+
+Scan Networks:
+
+   The script will scan for nearby Wi-Fi networks for 30 seconds and display them in real-time.
+
+Choose Deauth Mode:
+
+   Option 1: Nuke all networks.
+
+Option 2: Selectively nuke one network.
+
+Launch the Attack:
+
+Sit back and watch the chaos unfold.
+
+Stop the Attack:
+
+Press Ctrl+C to stop the continuous deauth attack.
+
+
