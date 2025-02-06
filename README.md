@@ -30,7 +30,7 @@
 
 2. **Clone the Repository**: 
 ```bash
-   git clone https://github.com/Xtofuub/packetstorm
+   git clone https://github.com/xtofuub/PacketStorm.git
    cd packetstorm
    sudo python3 packetstorm.py
 
