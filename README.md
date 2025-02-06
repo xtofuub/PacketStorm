@@ -1,6 +1,6 @@
-# TofuNuke 🚀
+# PacketStorm 🚀
 
-**TofuNuke** is a Python script designed to scan and deauthenticate Wi-Fi networks with surgical precision and maximum chaos. Built for penetration testers, security researchers, and chaos enthusiasts, this tool leverages `airodump-ng` and `aireplay-ng` to unleash havoc on wireless networks.
+**PacketStorm** is a Python script designed to scan and deauthenticate Wi-Fi networks with surgical precision and maximum chaos. Built for penetration testers, security researchers, and chaos enthusiasts, this tool leverages `airodump-ng` and `aireplay-ng` to unleash havoc on wireless networks.
 
 ---
 
